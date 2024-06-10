@@ -10,6 +10,7 @@ import sun from "../imglar/white-sun.png";
 import Hamburger from "hamburger-react";
 import Scrol from "@/ScrolTop/Scrol";
 import burger from "./icons8-rain-cloud-96.png";
+import 'animate.css';
 
 export default function page1({ darkmode, handleDarkMode }) {
   function handleBurger() {
